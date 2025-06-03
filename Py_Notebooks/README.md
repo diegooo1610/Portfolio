@@ -10,7 +10,10 @@ This folder contains the Jupyter Notebook(s) used to execute the core stages of 
 - **`02_data_visualization.ipynb`**  
   Explores stock performance trends using Matplotlib and Seaborn. Includes distribution plots, technical indicator overlays, and volatility-level breakdowns to uncover patterns and insights.
 
-- **`03_model_building.ipynb`**  
+- **`03_increase_data_to_5yr.ipynb`**  
+  Use the metrics from the last two data sets and python notebooks to increment the amount of data, in this case from the last 1.5 years to 5 years of stock data that will be mainly use for machine learning model.
+
+- **`04_model_building.ipynb`**  
   Builds a machine learning model to classify or predict stock behavior based on engineered features. Includes training, testing, and evaluation using accuracy and performance metrics.
 
 ## 🛠 Tools Used
