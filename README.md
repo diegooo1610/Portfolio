@@ -1,7 +1,7 @@
 # Portfolio
 # 📈 Stock Price Movement & Volatility Dashboard
 
-An interactive data analytics dashboard for tracking and visualizing stock price trends, daily returns, and volatility using SQL, Power BI, Python, and Excel.
+An interactive data analytics dashboard for tracking and visualizing stock price trends, daily returns, and volatility using SQL, Tableau, Python, and Excel.
 
 ---
 
@@ -26,12 +26,3 @@ This project analyzes historical stock price data across multiple companies to i
 - **SQL** – Data querying and aggregation
 - **Python** – Pandas, Matplotlib, Seaborn (for early data exploration)
 - **Excel** – Initial data structuring and transformations
-
----
-
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/diegooo1610/stock-volatility-dashboard.git
-   cd stock-volatility-dashboard
