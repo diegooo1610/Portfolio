@@ -1,4 +1,0 @@
-All datasets are stored in the `data/` folder and include:
-- `raw_technical_indicators.csv` – RSI, MACD, EMA, and BBM inputs
-- `raw_stock_stats.csv` – Daily returns, volatility, max/min values
-- `final_stock_dataset.csv` – Fully cleaned and merged dataset ready for modeling
