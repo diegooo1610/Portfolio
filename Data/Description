@@ -1,4 +1,9 @@
-All datasets are stored in the `data/` folder and include:
-- `raw_technical_indicators.csv` – RSI, MACD, EMA, and BBM inputs
-- `raw_stock_stats.csv` – Daily returns, volatility, max/min values
-- `final_stock_dataset.csv` – Fully cleaned and merged dataset ready for modeling
+📦 data/ Folder Overview
+This directory contains the datasets used throughout the stock analysis and modeling pipeline. Files are organized based on their stage in the data workflow:
+
+raw_technical_indicators.csv
+Contains unprocessed technical signals such as RSI, MACD, EMA, and Bollinger Bands sourced from historical stock data.
+raw_stock_stats.csv
+Includes raw performance statistics for selected tickers, including daily returns, minimum and maximum values, and volatility measures.
+final_stock_dataset.csv
+A fully cleaned, merged, and feature-enriched dataset combining raw indicators and statistical metrics, used for visualization and machine learning analysis.
