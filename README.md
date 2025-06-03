@@ -22,7 +22,7 @@ This project analyzes historical stock price data across multiple companies to i
 
 ## 🛠 Tech Stack
 
-- **Tableau ** – Dashboard creation
+- **Tableau** – Dashboard creation
 - **SQL** – Data querying and aggregation
 - **Python** – Pandas, Matplotlib, Seaborn (for early data exploration)
 - **Excel** – Initial data structuring and transformations
