@@ -13,7 +13,7 @@ This folder contains all datasets used in the project across various stages of t
 - **`final_stock_dataset.csv`**  
   Fully cleaned and merged dataset combining statistical and technical indicators. This file serves as the primary input for Tableau dashboards and Python-based visualizations using Matplotlib and Seaborn.
 
-  - **`cleaned_5yr_stock_data.csv`**  
+ - **`cleaned_5yr_stock_data.csv`**  
   Fully cleaned and merged dataset combining statistical and technical indicators as well as an addition of 3.5 more years of data. This file serves as the primary input for Tableau dashboards and Python-based visualizations using Matplotlib and Seaborn. Then the main use the new 5 year long data set is for machine learning use.
 
 > 📌 All datasets are in `.csv` format and ready for use in data processing, modeling, and dashboarding workflows.
