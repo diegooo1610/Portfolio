@@ -10,7 +10,7 @@ This folder contains all datasets used in the project across various stages of t
 - **`raw_stock_stats.csv`**  
   Includes daily stock performance metrics such as returns, minimum/maximum values, and volatility. Used for statistical analysis and feature exploration.
 
-- **`final_stock_dataset.csv`**  
+- **`merged_stock_dataset.csv`**  
   Fully cleaned and merged dataset combining statistical and technical indicators. This file serves as the primary input for Tableau dashboards and Python-based visualizations using Matplotlib and Seaborn.
 
  - **`cleaned_5yr_stock_data.csv`**  
