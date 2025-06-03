@@ -13,7 +13,7 @@ This project analyzes historical stock price data across multiple companies to i
 
 ## 🌟 Features
 
-- Dynamic Tableau BI dashboard to compare price changes and volatility
+- Dynamic Tableau  dashboard to compare price changes and volatility
 - SQL queries for calculating daily percentage change, average closing price, and identifying high/low performers
 - Data cleaning and organization using Python (Pandas) and Excel
 - Volatility classification using statistical thresholds
@@ -22,7 +22,7 @@ This project analyzes historical stock price data across multiple companies to i
 
 ## 🛠 Tech Stack
 
-- **Tableau BI** – Dashboard creation
+- **Tableau ** – Dashboard creation
 - **SQL** – Data querying and aggregation
 - **Python** – Pandas, Matplotlib, Seaborn (for early data exploration)
 - **Excel** – Initial data structuring and transformations
